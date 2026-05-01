@@ -1,0 +1,859 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "alias": [
+            "audio/action-complete.ogg"
+          ],
+          "src": [
+            "audio/action-complete-VNzvoQ.ogg",
+            "audio/action-complete-ORcDzw.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/action-start.ogg"
+          ],
+          "src": [
+            "audio/action-start-obz-KQ.ogg",
+            "audio/action-start-lBcHIA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/audio-asset-requirements.md"
+          ],
+          "src": [
+            "audio/audio-asset-requirements-uBbtXQ.md"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/build-complete.ogg"
+          ],
+          "src": [
+            "audio/build-complete-sAas4g.ogg",
+            "audio/build-complete-gD-wUA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/fortify-absorb.ogg"
+          ],
+          "src": [
+            "audio/fortify-absorb-f43yLw.mp3",
+            "audio/fortify-absorb-2yVkqg.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/low-anger-ambient.mp3"
+          ],
+          "src": [
+            "audio/low-anger-ambient-KR4pzQ.ogg",
+            "audio/low-anger-ambient-K9KS6w.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/no-anger-ambient.mp3"
+          ],
+          "src": [
+            "audio/no-anger-ambient-SjCrOA.mp3",
+            "audio/no-anger-ambient-b3ajrg.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/pack-spawn-sting.mp3"
+          ],
+          "src": [
+            "audio/pack-spawn-sting-p5SZHg.mp3",
+            "audio/pack-spawn-sting-Med5Cw.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/run-loss.mp3"
+          ],
+          "src": [
+            "audio/run-loss-ex1FAQ.mp3",
+            "audio/run-loss-b9E6.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/run-win.ogg"
+          ],
+          "src": [
+            "audio/run-win-UCsSJQ.ogg",
+            "audio/run-win-Gd9C8w.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/ui-drop.ogg"
+          ],
+          "src": [
+            "audio/ui-drop-O4Jefg.mp3",
+            "audio/ui-drop-0sI9-Q.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/building-1.png"
+          ],
+          "src": [
+            "buildings/building-1-xHkdGg.webp",
+            "buildings/building-1-23iB6A.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/building-2.png"
+          ],
+          "src": [
+            "buildings/building-2-kQjXaQ.webp",
+            "buildings/building-2-3KPsQQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/building-3.png"
+          ],
+          "src": [
+            "buildings/building-3-pfAZtQ.png",
+            "buildings/building-3-d8LbDA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/building-4.png"
+          ],
+          "src": [
+            "buildings/building-4-PibRJA.png",
+            "buildings/building-4-jkROWQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/farm-1.png"
+          ],
+          "src": [
+            "buildings/farm-1-SY4qew.webp",
+            "buildings/farm-1-FRkGlQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/gatherer-1.png"
+          ],
+          "src": [
+            "buildings/gatherer-1-rqaVtg.png",
+            "buildings/gatherer-1-FgvooQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/home-1.png"
+          ],
+          "src": [
+            "buildings/home-1-1wTAeA.webp",
+            "buildings/home-1-1V66qg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/home-2.png"
+          ],
+          "src": [
+            "buildings/home-2-XPEdbQ.png",
+            "buildings/home-2-JOPu.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/outpost-1.png"
+          ],
+          "src": [
+            "buildings/outpost-1-n5S0VA.webp",
+            "buildings/outpost-1-1Dph0w.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/stonecutter-1.png"
+          ],
+          "src": [
+            "buildings/stonecutter-1-O2nNyA.webp",
+            "buildings/stonecutter-1-l-qgFA.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/wall-1.png"
+          ],
+          "src": [
+            "buildings/wall-1-N7EC3Q.webp",
+            "buildings/wall-1-a3qBfQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/woodcutter-1.png"
+          ],
+          "src": [
+            "buildings/woodcutter-1-pwulSQ.webp",
+            "buildings/woodcutter-1-daUh.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "buildings/woodcutter-2.png"
+          ],
+          "src": [
+            "buildings/woodcutter-2-kjCD.webp",
+            "buildings/woodcutter-2-3GnyEQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/creatures/bear.png"
+          ],
+          "src": [
+            "entities/creatures/bear-XGsXcw.png",
+            "entities/creatures/bear-kKBkAg.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/creatures/deer.png"
+          ],
+          "src": [
+            "entities/creatures/deer-VZs1RQ.webp",
+            "entities/creatures/deer-IpcLSw.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/creatures/scavengers.png"
+          ],
+          "src": [
+            "entities/creatures/scavengers-y0lH.webp",
+            "entities/creatures/scavengers-dukIVg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/creatures/wolves.png"
+          ],
+          "src": [
+            "entities/creatures/wolves-UCAQ1Q.png",
+            "entities/creatures/wolves-0xTRqA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/eng-female-1.png"
+          ],
+          "src": [
+            "entities/workers/eng-female-1-LQcUdQ.webp",
+            "entities/workers/eng-female-1-GrA3nw.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/eng-male-1.png"
+          ],
+          "src": [
+            "entities/workers/eng-male-1-F0KX5g.png",
+            "entities/workers/eng-male-1-bUtprw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/explorer-female-1.png"
+          ],
+          "src": [
+            "entities/workers/explorer-female-1-K1E6Ng.png",
+            "entities/workers/explorer-female-1-555-.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/explorer-male-1.png"
+          ],
+          "src": [
+            "entities/workers/explorer-male-1-lQgfxw.webp",
+            "entities/workers/explorer-male-1-lNdEDA.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/farmer-female-1.png"
+          ],
+          "src": [
+            "entities/workers/farmer-female-1-uqh_aw.webp",
+            "entities/workers/farmer-female-1-3lhTAQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/farmer-male-1.png"
+          ],
+          "src": [
+            "entities/workers/farmer-male-1-zdm1xA.webp",
+            "entities/workers/farmer-male-1-0Whb.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/lumber-female-1.png"
+          ],
+          "src": [
+            "entities/workers/lumber-female-1-xSamlQ.png",
+            "entities/workers/lumber-female-1-q5GQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/lumber-male-1.png"
+          ],
+          "src": [
+            "entities/workers/lumber-male-1-p0pV6w.png",
+            "entities/workers/lumber-male-1--RRaFA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/soldier-female-1.png"
+          ],
+          "src": [
+            "entities/workers/soldier-female-1-zTupDA.png",
+            "entities/workers/soldier-female-1-pWwZ8w.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "entities/workers/soldier-male-1.png"
+          ],
+          "src": [
+            "entities/workers/soldier-male-1-ZjyUeA.webp",
+            "entities/workers/soldier-male-1-hKsXzA.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "raw-assets-guide.md"
+          ],
+          "src": [
+            "raw-assets-guide-UfRHUA.md"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/dead-1.png"
+          ],
+          "src": [
+            "tiles/dead-1-KWdxcg.png",
+            "tiles/dead-1-4Ed6NQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/dirt-1.png"
+          ],
+          "src": [
+            "tiles/dirt-1-ZLPgfg.webp",
+            "tiles/dirt-1-8GF6.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/fertile-1.png"
+          ],
+          "src": [
+            "tiles/fertile-1-jRKyXg.png",
+            "tiles/fertile-1-3yU8nw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/forest-1.png"
+          ],
+          "src": [
+            "tiles/forest-1-xo7p-Q.webp",
+            "tiles/forest-1-qzjG.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/forest-2.png"
+          ],
+          "src": [
+            "tiles/forest-2-T7_4Dw.webp",
+            "tiles/forest-2-oj6Dbw.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/forest-3.png"
+          ],
+          "src": [
+            "tiles/forest-3-POLWJg.png",
+            "tiles/forest-3-PjRWpA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/grass-1.png"
+          ],
+          "src": [
+            "tiles/grass-1-EgcY8Q.webp",
+            "tiles/grass-1-50Cbeg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/stone-1.png"
+          ],
+          "src": [
+            "tiles/stone-1-VQVvDQ.webp",
+            "tiles/stone-1-0H0QFg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/accept.png"
+          ],
+          "src": [
+            "ui/radial/accept-zphuSQ.png",
+            "ui/radial/accept-1V0jvA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/action-chop.png"
+          ],
+          "src": [
+            "ui/radial/action-chop-bZFKYw.webp",
+            "ui/radial/action-chop-_ETjPg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/action-farm.png"
+          ],
+          "src": [
+            "ui/radial/action-farm-Wx2iwA.png",
+            "ui/radial/action-farm-EYhTYw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/action-gather.png"
+          ],
+          "src": [
+            "ui/radial/action-gather-m1w70A.png",
+            "ui/radial/action-gather-8VQGFQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/action-mine.png"
+          ],
+          "src": [
+            "ui/radial/action-mine-T6zqcA.webp",
+            "ui/radial/action-mine-phpO_A.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/action-talk.png"
+          ],
+          "src": [
+            "ui/radial/action-talk-Sl7RCQ.png",
+            "ui/radial/action-talk-7lBXew.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/blocked.png"
+          ],
+          "src": [
+            "ui/radial/blocked-YLwOOA.webp",
+            "ui/radial/blocked-MdOfGg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build-farm.png"
+          ],
+          "src": [
+            "ui/radial/build-farm-JY1rPg.png",
+            "ui/radial/build-farm-aQP79w.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build-house.png"
+          ],
+          "src": [
+            "ui/radial/build-house-uYfmbQ.png",
+            "ui/radial/build-house-9Y_WKw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build-stonecutter.png"
+          ],
+          "src": [
+            "ui/radial/build-stonecutter-nCc5mg.png",
+            "ui/radial/build-stonecutter-a5hNKA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build-store.png"
+          ],
+          "src": [
+            "ui/radial/build-store-oV67kQ.png",
+            "ui/radial/build-store-7bp2Uw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build-tower.png"
+          ],
+          "src": [
+            "ui/radial/build-tower-vy1oFg.webp",
+            "ui/radial/build-tower-8aZEVA.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build-woodcutter.png"
+          ],
+          "src": [
+            "ui/radial/build-woodcutter-SgiS-w.png",
+            "ui/radial/build-woodcutter-Q7YGiQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/build.png"
+          ],
+          "src": [
+            "ui/radial/build-t71WDw.png",
+            "ui/radial/build-PvuMRg.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/cancel.png"
+          ],
+          "src": [
+            "ui/radial/cancel-x2sTuA.webp",
+            "ui/radial/cancel-KeNAUQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/event.png"
+          ],
+          "src": [
+            "ui/radial/event-PZoxoQ.png",
+            "ui/radial/event-f_GOuQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/explorer.png"
+          ],
+          "src": [
+            "ui/radial/explorer-l8gfcQ.png",
+            "ui/radial/explorer-9dM1lw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/food.png"
+          ],
+          "src": [
+            "ui/radial/food-izbf3Q.webp",
+            "ui/radial/food-EquVWQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/fortify.png"
+          ],
+          "src": [
+            "ui/radial/fortify-gJkDYg.png",
+            "ui/radial/fortify-0p1okw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/get.png"
+          ],
+          "src": [
+            "ui/radial/get-YooHGw.webp",
+            "ui/radial/get-inUx9w.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/move.png"
+          ],
+          "src": [
+            "ui/radial/move-wodgnQ.webp",
+            "ui/radial/move-1DG4vQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/open.png"
+          ],
+          "src": [
+            "ui/radial/open-Odhp.png",
+            "ui/radial/open-4mzuqA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/take-over.png"
+          ],
+          "src": [
+            "ui/radial/take-over-WlojGw.webp",
+            "ui/radial/take-over-5UrFCg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "ui/radial/warning.png"
+          ],
+          "src": [
+            "ui/radial/warning-FeTlhw.png",
+            "ui/radial/warning-F99OhQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        }
+      ]
+    }
+  ]
+}
