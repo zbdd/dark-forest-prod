@@ -32,12 +32,24 @@
             text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85);
             pointer-events: none;
         }
+        #run-id {
+            position: fixed;
+            left: calc(env(safe-area-inset-left, 0px) + 12px);
+            bottom: calc(env(safe-area-inset-bottom, 0px) + 24px);
+            z-index: 1000;
+            color: rgba(255, 255, 255, 0.45);
+            font: 500 11px/1.2 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            letter-spacing: 0.04em;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85);
+            pointer-events: none;
+        }
     </style>
     <title>Dark Forest</title>
-  <script type="module" crossorigin src="./assets/index-BPxhbGg5.js"></script>
+  <script type="module" crossorigin src="./assets/index-D2aUGWyv.js"></script>
 </head>
 <body oncontextmenu="return false;">
     <div id="app"></div>
     <div aria-live="off" id="app-version"></div>
+    <div aria-live="polite" aria-label="Run ID" id="run-id"></div>
 </body>
 </html>
