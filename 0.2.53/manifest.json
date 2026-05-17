@@ -67,8 +67,8 @@
             "audio/low-anger-ambient.mp3"
           ],
           "src": [
-            "audio/low-anger-ambient-K9KS6w.mp3",
-            "audio/low-anger-ambient-3HQTRw.ogg"
+            "audio/low-anger-ambient-RMGUuw.ogg",
+            "audio/low-anger-ambient-K9KS6w.mp3"
           ],
           "data": {
             "tags": {}
@@ -80,43 +80,7 @@
           ],
           "src": [
             "audio/no-anger-ambient-SjCrOA.mp3",
-            "audio/no-anger-ambient-5RBNbQ.ogg"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "audio/run-loss.mp3"
-          ],
-          "src": [
-            "audio/run-loss-zTOCZQ.ogg",
-            "audio/run-loss-ex1FAQ.mp3"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "audio/run-win.ogg"
-          ],
-          "src": [
-            "audio/run-win-UCsSJQ.ogg",
-            "audio/run-win-Gd9C8w.mp3"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "audio/ui-drop.ogg"
-          ],
-          "src": [
-            "audio/ui-drop-O4Jefg.mp3",
-            "audio/ui-drop-0sI9-Q.ogg"
+            "audio/no-anger-ambient-NudJEw.ogg"
           ],
           "data": {
             "tags": {}
@@ -172,6 +136,30 @@
         },
         {
           "alias": [
+            "audio/run-loss.mp3"
+          ],
+          "src": [
+            "audio/run-loss-ex1FAQ.mp3",
+            "audio/run-loss-3TwCKA.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/run-win.ogg"
+          ],
+          "src": [
+            "audio/run-win-UCsSJQ.ogg",
+            "audio/run-win-Gd9C8w.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
             "audio/survivor-hut-reveal.ogg"
           ],
           "src": [
@@ -189,6 +177,18 @@
           "src": [
             "audio/survivor-recruit-zhb5lw.ogg",
             "audio/survivor-recruit-yD0XmQ.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/ui-drop.ogg"
+          ],
+          "src": [
+            "audio/ui-drop-O4Jefg.mp3",
+            "audio/ui-drop-0sI9-Q.ogg"
           ],
           "data": {
             "tags": {}
