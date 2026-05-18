@@ -32,7 +32,7 @@
             "audio/audio-asset-requirements.md"
           ],
           "src": [
-            "audio/audio-asset-requirements-pw2AdA.md"
+            "audio/audio-asset-requirements-a9XrWQ.md"
           ],
           "data": {
             "tags": {}
@@ -189,6 +189,66 @@
           "src": [
             "audio/survivor-recruit-zhb5lw.ogg",
             "audio/survivor-recruit-yD0XmQ.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/combat-popup-open.ogg"
+          ],
+          "src": [
+            "audio/combat-popup-open-3pQnbA.ogg",
+            "audio/combat-popup-open-_bUjuw.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/combat-card-slam.ogg"
+          ],
+          "src": [
+            "audio/combat-card-slam-s1qsmw.mp3",
+            "audio/combat-card-slam-7f_Iiw.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/combat-clash.ogg"
+          ],
+          "src": [
+            "audio/combat-clash-VA9deA.mp3",
+            "audio/combat-clash-oniqtw.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/combat-result-reveal.ogg"
+          ],
+          "src": [
+            "audio/combat-result-reveal-hyMUbg.mp3",
+            "audio/combat-result-reveal-4B3M2Q.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/combat-token-pop.ogg"
+          ],
+          "src": [
+            "audio/combat-token-pop-p8QTuQ.mp3",
+            "audio/combat-token-pop-FT2zPg.ogg"
           ],
           "data": {
             "tags": {}
