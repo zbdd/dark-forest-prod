@@ -79,7 +79,7 @@
             "audio/combat-outcome-favorable.wav"
           ],
           "src": [
-            "audio/combat-outcome-favorable-ve3MNA.ogg",
+            "audio/combat-outcome-favorable-yZlWzA.ogg",
             "audio/combat-outcome-favorable-MwZO9A.mp3"
           ],
           "data": {
@@ -92,7 +92,7 @@
           ],
           "src": [
             "audio/combat-outcome-unfavorable-rM-Pcg.mp3",
-            "audio/combat-outcome-unfavorable-Lakmig.ogg"
+            "audio/combat-outcome-unfavorable-QpT04A.ogg"
           ],
           "data": {
             "tags": {}
@@ -139,7 +139,7 @@
             "audio/low-anger-ambient.mp3"
           ],
           "src": [
-            "audio/low-anger-ambient-U9dyJQ.ogg",
+            "audio/low-anger-ambient-UcN8jg.ogg",
             "audio/low-anger-ambient-K9KS6w.mp3"
           ],
           "data": {
@@ -151,8 +151,8 @@
             "audio/no-anger-ambient.mp3"
           ],
           "src": [
-            "audio/no-anger-ambient-SjCrOA.mp3",
-            "audio/no-anger-ambient-Rtg3Lw.ogg"
+            "audio/no-anger-ambient-wrm10g.ogg",
+            "audio/no-anger-ambient-SjCrOA.mp3"
           ],
           "data": {
             "tags": {}
@@ -211,8 +211,8 @@
             "audio/run-loss.mp3"
           ],
           "src": [
-            "audio/run-loss-ex1FAQ.mp3",
-            "audio/run-loss-0L57tg.ogg"
+            "audio/run-loss-khJ9-A.ogg",
+            "audio/run-loss-ex1FAQ.mp3"
           ],
           "data": {
             "tags": {}
@@ -523,8 +523,8 @@
             "buildings/wall-1.png"
           ],
           "src": [
-            "buildings/wall-1-N7EC3Q.webp",
-            "buildings/wall-1-a3qBfQ.png"
+            "buildings/wall-1-urAcQA.png",
+            "buildings/wall-1-4M-J4A.webp"
           ],
           "data": {
             "tags": {}
@@ -843,6 +843,30 @@
         },
         {
           "alias": [
+            "tiles/fertile-depleted-1.png"
+          ],
+          "src": [
+            "tiles/fertile-depleted-1-gD5i.png",
+            "tiles/fertile-depleted-1-gB75IQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/fertile-depleted-2.png"
+          ],
+          "src": [
+            "tiles/fertile-depleted-2-TWpyNA.png",
+            "tiles/fertile-depleted-2-rdzd_Q.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
             "tiles/forest-1.png"
           ],
           "src": [
@@ -879,6 +903,30 @@
         },
         {
           "alias": [
+            "tiles/forest-depleted-1.png"
+          ],
+          "src": [
+            "tiles/forest-depleted-1-XrwhPA.png",
+            "tiles/forest-depleted-1-dKCTGA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/forest-depleted-2.png"
+          ],
+          "src": [
+            "tiles/forest-depleted-2-ESWqUQ.webp",
+            "tiles/forest-depleted-2-8Vbp1g.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
             "tiles/grass-1.png"
           ],
           "src": [
@@ -896,6 +944,18 @@
           "src": [
             "tiles/stone-1-VQVvDQ.webp",
             "tiles/stone-1-0H0QFg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "tiles/stone-depleted.png"
+          ],
+          "src": [
+            "tiles/stone-depleted-R6z3vg.png",
+            "tiles/stone-depleted-46KoRA.webp"
           ],
           "data": {
             "tags": {}
