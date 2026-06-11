@@ -80,7 +80,7 @@
           ],
           "src": [
             "audio/combat-outcome-favorable-MwZO9A.mp3",
-            "audio/combat-outcome-favorable-FqG-Ag.ogg"
+            "audio/combat-outcome-favorable-eK_k5g.ogg"
           ],
           "data": {
             "tags": {}
@@ -91,8 +91,8 @@
             "audio/combat-outcome-unfavorable.wav"
           ],
           "src": [
-            "audio/combat-outcome-unfavorable-Vr1K3g.ogg",
-            "audio/combat-outcome-unfavorable-rM-Pcg.mp3"
+            "audio/combat-outcome-unfavorable-rM-Pcg.mp3",
+            "audio/combat-outcome-unfavorable-mQ08BA.ogg"
           ],
           "data": {
             "tags": {}
@@ -139,7 +139,7 @@
             "audio/low-anger-ambient.mp3"
           ],
           "src": [
-            "audio/low-anger-ambient-OXBS.ogg",
+            "audio/low-anger-ambient-O3WT1g.ogg",
             "audio/low-anger-ambient-K9KS6w.mp3"
           ],
           "data": {
@@ -151,8 +151,8 @@
             "audio/no-anger-ambient.mp3"
           ],
           "src": [
-            "audio/no-anger-ambient-SjCrOA.mp3",
-            "audio/no-anger-ambient-IiQv-g.ogg"
+            "audio/no-anger-ambient-V2qD1A.ogg",
+            "audio/no-anger-ambient-SjCrOA.mp3"
           ],
           "data": {
             "tags": {}
@@ -211,8 +211,8 @@
             "audio/run-loss.mp3"
           ],
           "src": [
-            "audio/run-loss-ex1FAQ.mp3",
-            "audio/run-loss-81Xlhg.ogg"
+            "audio/run-loss-JwvfCw.ogg",
+            "audio/run-loss-ex1FAQ.mp3"
           ],
           "data": {
             "tags": {}
